@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IVELS Schedule</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_hide">Hide</string>
+
+    <string name="drawer_open">OPEN DRAWER</string>
+    <string name="drawer_close">CLOSE DRAWER</string>
+
+    <string name="menu_schedule">Schedule</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_help">Help</string>
+
+    <string name="dummy_name">Rama Bramantara</string>
+    <string name="dummy_nim">11520241027</string>
+</resources>
