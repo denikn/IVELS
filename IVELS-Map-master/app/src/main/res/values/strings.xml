@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IVELS Map</string>
+
+    <string name="google_maps_key">AIzaSyAaHDYcByZxgLIrugIi8XF7EDauF2mF_vQ</string>
+
+    <string name="drawer_open">OPEN</string>
+    <string name="drawer_close">CLOSE</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="menu_map">Map View</string>
+    <string name="menu_lecturer_position">Lecturer Position</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_setting">Settings</string>
+
+    <string name="dummy_name">Rama Bramantara</string>
+    <string name="dummy_nim">11520241027</string>
+
+    <string name="gps_dialog_desc">Aktivate A-GPS and Network-Based GPS for accurate location.</string>
+    <string name="waiting_location">Waiting location update&#8230;</string>
+    <string name="touch_here">Touch here for more information&#8230;</string>
+    <string name="my_location">Your Position</string>
+</resources>
